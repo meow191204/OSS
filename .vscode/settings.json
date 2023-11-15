@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "04-1.C": "cpp",
+        "stdio.h": "c",
+        "algorithm": "c",
+        "sstream": "c"
+    }
+}
